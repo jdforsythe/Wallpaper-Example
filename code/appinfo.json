@@ -1,0 +1,9 @@
+{
+	"id": "com.jdfsoftware.wallpaper",
+	"version": "0.0.1",
+	"vendor": "JDF Software",
+	"type": "web",
+	"main": "index.html",
+	"title": "Wallpaper Example",
+	"icon": "icon.png"
+}
